@@ -4,3 +4,35 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    padding: 25px 300px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #E5E7EB;
+    margin-left: 20px;
+}
+
