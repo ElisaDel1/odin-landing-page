@@ -190,3 +190,16 @@ button {
     font-size: 18px;
     color: #d5d5d6;
 }
+
+
+
+/* Footer */
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    align-content: center;
+    height: 100px;
+    color: #d5d5d5;
+    font-size: 18px;
+}
