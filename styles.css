@@ -88,3 +88,53 @@ button {
     border: none;
     margin-top: 20px;
 }
+
+
+
+/* Infos part */
+
+.infos-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.infos-part h2 {
+    margin: 40px 0;
+    font-size: 32px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.container-infos {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.info {
+    width: 180px;
+    text-align: center;
+    color: #75777a;
+    font-size: 18px;
+}
+
+.info-img {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    border-radius: 10px;
+    border: #3882F6 solid 5px;
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Quote part */
+
+.quote-part {
+    background-color: #E5E7EB;
+}
