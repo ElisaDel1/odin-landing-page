@@ -72,9 +72,9 @@ header nav {
 }
 
 .hero-text p {
-    color: #E5E7EB;
+    color: #cdced1;
     font-size: 18px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 button {
@@ -86,7 +86,7 @@ button {
     font-size: 18px;
     font-weight: 700;
     border: none;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 
@@ -150,8 +150,8 @@ button {
 
 .quote-part p:first-of-type {
     font-style: italic;
-    font-weight: light;
-    color: #75777a;
+    font-weight: 300;
+    color: #5f6061;
 }
 
 .quote-part p:last-of-type {
