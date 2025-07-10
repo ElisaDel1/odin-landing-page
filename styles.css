@@ -162,3 +162,31 @@ button {
     align-self: flex-end;
     margin-right: 80px;
 }
+
+
+
+/* CTA part */
+
+.cta-part {
+    height: 300px;
+    color: #E5E7EB;
+}
+
+.blue-background {
+    background-color: #3882F6;
+    padding: 40px 150px;
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.blue-background button {
+    border: solid #E5E7EB 2px;
+}
+
+.blue-background p {
+    font-size: 18px;
+    color: #d5d5d6;
+}
